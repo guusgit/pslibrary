@@ -5,5 +5,5 @@ Function sayHelloToto{
 
 Function mkdirSpec{
 
-	mkdir toto
+	mkdir ./toto
 }
