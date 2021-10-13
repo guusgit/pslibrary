@@ -7,3 +7,8 @@ Function mkdirSpec{
 
 	mkdir ./toto
 }
+
+Function sayLoloToto{
+
+	write-host "Toto said : LOLO !"
+}
